@@ -4,7 +4,7 @@ from datetime import datetime
 from telegram import Update
 from telegram.ext import ApplicationBuilder, MessageHandler, CommandHandler, ContextTypes, filters
 
-TOKEN = "TU_TOKEN_AQUI"
+TOKEN = "8500053438:AAHsvHcOSDbqO24bi5mmHfSDXVeKP5Jvwfc"
 
 # ruta absoluta a la carpeta reportes
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
