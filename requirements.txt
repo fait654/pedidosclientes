@@ -1,1 +1,2 @@
-python-telegram-bot==20.7
+# Requiere Python 3.12 o superior
+python_version>=3.12
